@@ -13,6 +13,7 @@
 - ESLint
 - Prettier
 - Reactjs code snippets
+- vscode-styled-components
 
 ### .prettier 파일 생성
 
