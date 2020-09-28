@@ -1,8 +1,8 @@
 # Style-Component-연습
 
-![img]()
-![img]()
-![img]()
+![img](https://github.com/codingspecialist/React-Style-App/blob/master/preview/1.png)
+![img](https://github.com/codingspecialist/React-Style-App/blob/master/preview/2.png)
+![img](https://github.com/codingspecialist/React-Style-App/blob/master/preview/3.png)
 
 ### 설치
 
