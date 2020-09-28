@@ -1,5 +1,9 @@
 # Style-Component-연습
 
+![img]()
+![img]()
+![img]()
+
 ### 설치
 
 - npx create-react-app style-app
